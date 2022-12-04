@@ -1,4 +1,4 @@
-[
+
    {
      "id":1,
      "title" : "Curso Matematica",
@@ -7,14 +7,4 @@
      "lessons": [{"lessonid":1," lessontitle":"Primera Leccion de matematica "},
                  {"lessonid":2," lessontitle":"Segunda Leccion de matematica"}
       ]
-   },
-   {
-     "id":2,
-     "title" : "Curso Fisica",
-     "urlImage" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.areaciencias.com%2Ffisica%2Fque-es-fisica%2F&psig=AOvVaw1XHN_hkU_G0UewJZJv6lmq&ust=1670212971192000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCN7qiK3_sCFQAAAAAdAAAAABAE",
-     "description": "Curso Basico de fisica",
-     "lessons": [{"lessonid":1," lessontitle":"Primera Leccion de fisica"},
-                 {"lessonid":2," lessontitle":"Segunda Leccion de fisica"}
-      ]
    }
-]
